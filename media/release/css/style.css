@@ -1,0 +1,18 @@
+html, body {
+	padding: 10px;
+	font-family: Arial
+}
+
+h1 {
+	font-family: Georgia;
+	font-style: italic;
+	font-weight: 600;
+	font-size: 36px;
+	margin: 0;
+	color: #565656
+}
+
+code {
+	border: 1px #bbb solid;
+	background-color: #fff
+}
