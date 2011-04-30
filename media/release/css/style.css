@@ -16,3 +16,7 @@ code {
 	border: 1px #bbb solid;
 	background-color: #fff
 }
+
+.striked {
+	text-decoration: line-through
+}
