@@ -14,7 +14,7 @@ Using
 					...
 			));
 
-2. Download source code and copy it into `MODPATHrelease/` or install **Release Package Generator** from git
+2. Download source code and copy it into `MODPATH/release/` or install **Release Package Generator** from git
 
 		# git submodule add https://github.com/Leemo/kohana-release.git modules/release
 		# cd modules/release && git submodule update --init
@@ -25,7 +25,7 @@ Using
 Configuration
 -------------
 
-The release package generator has the following config options, available in `APPPATHconfig/release.php`. Each time, the formation of release, this module will automatically overwrite the configuration file.
+The release package generator has the following config options, available in `APPPATH/config/release.php`. Each time, the formation of release, this module will automatically overwrite the configuration file.
 
 	return array
 	(
