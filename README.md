@@ -14,7 +14,7 @@ Using
 					...
 			));
 
-2. Download source code and copy it into `MODPATHrelease/` or install **Release Package Generator** from git
+2. Download source code and copy it into `MODPATH/release/` or install **Release Package Generator** from git
 
 		# git submodule add https://github.com/Leemo/kohana-release.git modules/release
 		# cd modules/release && git submodule update --init
